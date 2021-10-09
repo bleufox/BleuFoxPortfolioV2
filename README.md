@@ -4,7 +4,7 @@
 An updated student portfolio that showcases recent independent and team projects, includes links to GitHub profile, LinkedIn profile, downloadable resume, and a bio page.
 
 ## Acceptance Criteria
-```md
+```
 * Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks
 
 * Update GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks
@@ -15,20 +15,16 @@ An updated student portfolio that showcases recent independent and team projects
 ```
 
 ## Technologies Used
-* HTML, CSS
+* HTML, CSS, Javascript
 
 ## Screenshots
-Homepage 
-![Home-Page](/images/)
-
-Bio
-![Bio](/images/)
-
-Contact
-![Contact](/images/)
+![Homepage](/images/homepage.png)
+![Bio](/images/bio.png)
+![Contact](/images/contact-screenshot.png)
 
 ## Repository
-* GitHub Repo: https://github.com/bleufox/BleuFoxPortfolio
+* GitHub Repo: 
+* Deployed Site: https://bleufox.github.io/BleuFoxPortfolioV2/
 
 ## Creator
 Ashley Jones, Full Stack Developer Student
