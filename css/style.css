@@ -15,8 +15,8 @@ body {
   font-family: "Roboto", Arial, serif;
   line-height: 1.8;
   font-size: 16px;
-  background: #fff;
-  color: #848484;
+  background: #f5e6e1;
+  color: #444444;
   font-weight: 300;
   overflow-x: hidden;
 }
@@ -255,9 +255,13 @@ figure {
 }
 
 .sub-logo {
-  width: 30%;
+  height: 35px;
 }
 
 .divider{
   height: 15px;
+}
+
+.img-sizing {
+  width: 100%;
 }
