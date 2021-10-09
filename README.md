@@ -23,7 +23,7 @@ An updated student portfolio that showcases recent independent and team projects
 ![Contact](/images/contact-screenshot.png)
 
 ## Repository
-* GitHub Repo: 
+* GitHub Repo: https://github.com/bleufox/BleuFoxPortfolioV2
 * Deployed Site: https://bleufox.github.io/BleuFoxPortfolioV2/
 
 ## Creator
